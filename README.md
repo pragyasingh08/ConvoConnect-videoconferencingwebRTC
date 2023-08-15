@@ -13,30 +13,4 @@ Screen Sharing: Share your screen to provide presentations, demonstrate software
 
 Cross-Platform Compatibility: Enjoy a consistent experience across various devices and operating systems without the need for additional software installations.
 
-Installation
-Follow these steps to set up the Video Conferencing WebRTC application:
 
-Clone the Repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/video-conferencing-webrtc.git
-Navigate to the Directory:
-
-bash
-Copy code
-cd video-conferencing-webrtc
-Install Dependencies:
-
-Copy code
-npm install
-Configure Environment Variables:
-Rename the .env.example file to .env and update it with your configuration settings.
-
-Run the Application:
-
-sql
-Copy code
-npm start
-Access the Application:
-Open a web browser and go to http://localhost:3000 to access the application.
